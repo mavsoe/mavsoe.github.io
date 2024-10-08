@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mavsoe.github.io/CKP/sitemap.CKP.gz
